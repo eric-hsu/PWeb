@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<BOCOMB2C>	
+	<Setting>T</Setting>	<!-- T为测试环境，P为生产环境 -->
+	<Path>F:\bank\bcm\bocommjava</Path>	<!-- bocommjava的路径，ini log cert libr父目录 -->
+	<MerchantCertFile>F:\bank\bcm\bocommjava\cert\301310063009501.PFX</MerchantCertFile>		<!--测试环境商户证书文件（绝对路径）,商户上线时该证书换为商户生产证书-->
+	<MerchantCertPassword>12345678</MerchantCertPassword> 							<!--测试环境商户证书私钥加密密码,商户上线时该密码换为商户生产证书密码-->
+</BOCOMB2C>

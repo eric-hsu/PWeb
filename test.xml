@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+  <!--这个一个注释-->
+  <request type="cat" flow="tong" time="2009">
+    <pro type="att" name="附件">测试哈子</pro>
+    <pro type="cd" name="特殊字符过滤"><![CDATA[特殊字符]]></pro>
+  </request>
+</root>

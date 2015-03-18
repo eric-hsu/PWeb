@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">com.jinxin.common.datasource.**
+com.jinxin.common.exception.**
+com.jinxin.common.rsa.**
+com.jinxin.common.sql.**
+com.jinxin.common.test.**
+com.jinxin.common.utils.**
+com.jinxin.common.valueobj.**
+com.jinxin.common.web.**
+com.jinxin.dao.**
+com.jinxin.filter.**
+com.jinxin.model.**
+com.jinxin.service.common.**
+com.jinxin.service.paygateway.**
+com.jinxin.web.**
+dao.test.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">com.jinxin.common.datasource.*,
+com.jinxin.common.exception.*,
+com.jinxin.common.rsa.*,
+com.jinxin.common.sql.*,
+com.jinxin.common.test.*,
+com.jinxin.common.utils.*,
+com.jinxin.common.valueobj.*,
+com.jinxin.common.web.*,
+com.jinxin.dao.*,
+com.jinxin.filter.*,
+com.jinxin.model.*,
+com.jinxin.service.common.*,
+com.jinxin.service.paygateway.*,
+com.jinxin.web.*,
+dao.test.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+<entry key="myeclipse.profiling.mode">1</entry>
+</properties>

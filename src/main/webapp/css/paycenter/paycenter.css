@@ -1,0 +1,70 @@
+body{overflow-y:scroll;}
+.bank_ul li {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    margin: 8px 6px;
+    min-height: 40px;
+    width: 208px;
+}
+
+
+.mc {
+    margin: 0;
+}
+
+.succ04{
+	display: inline-block;
+    height: 16px;
+    vertical-align: middle;
+    width: 16px;
+    float: left;
+    background-image: url("../../images/icon-succ.png");
+}
+
+
+.orderinfo {
+    color: #7abd54;
+    float: left;
+    margin-right: 15px;
+    font-size: 14px;
+    margin-top: -12px;
+}
+
+
+.list-orderinfo li{
+    border-right: 1px solid #cccccc;
+    float: left;
+    margin-right: 7px;
+    padding-right: 7px;
+    font: 12px/150% Arial,Verdana,"����";
+    list-style: none outside none;
+}
+
+
+.list-orderinfo .li-last, .list-orderinfo01 .li-last {
+    border-right: medium none;margin: 0; 
+}
+
+strong.ftx-01 {
+    font-size: 18px;color: #e4393c;
+}
+
+
+.mb-tip{
+    color: #999999;
+    margin-top: 4px;
+    font: 12px/150% Arial,Verdana;
+}
+
+.clear{clear:both;}
+
+.clearborder{border:none;border:0;}
+
+.footer p {
+	line-height: 24px;
+	color: #999999;
+	text-align: center;
+	font: 12px/150% Arial,Verdana;
+}
